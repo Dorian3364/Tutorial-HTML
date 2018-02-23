@@ -1,0 +1,10 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("mqdefault.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color:white;
+}
